@@ -1,1 +1,1 @@
-## This is my personal github which I use to explore software engineering topics.
+## This is an account which I use to explore/tinker with things in software engineering.
