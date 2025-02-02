@@ -1,1 +1,8 @@
-## This is an account which I use to explore/tinker with things in software engineering.
+# Welcome to My GitHub
+This is an account where I explore, tinker, and practice various software engineering things and demo projects.
+
+---
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwhals&layout=compact&bg_color=282c34&text_color=ffffff&title_color=ff5733)
