@@ -1,5 +1,5 @@
 # Welcome to My GitHub
-This is an account where I explore, tinker, and practice various software engineering things and demo projects.
+This is an account where I explore, tinker, and practice various software engineering things and store demo projects.
 
 ---
 ## Languages
