@@ -17,4 +17,9 @@ Contact Info:
 ## 🔥 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+3. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+4. 📔 Created new repository [marwhals/micronaut-kafka-demo](https://github.com/marwhals/micronaut-kafka-demo)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
 <!--RECENT_ACTIVITY:end-->
