@@ -14,7 +14,9 @@ Contact Info:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="15%">
 </a>
 
-## 🔥 Recent GitHub Activity
+---
+
+## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
