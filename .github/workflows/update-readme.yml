@@ -1,0 +1,35 @@
+name: Update ReadMe with Recent Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:  # ✅ Ensure GITHUB_TOKEN has write access
+      contents: write
+
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Run Readme-Workflows/recent-activity
+        uses: Readme-Workflows/recent-activity@main
+        with:
+          GH_USERNAME: marwhals
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update recent activity in README"
+          git push

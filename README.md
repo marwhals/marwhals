@@ -1,5 +1,7 @@
 # Welcome to My GitHub
-This is a person account for holding code which is either useful or interesting.
+
+This is a personal account for holding code which is either useful or interesting.
+
 ---
 ## Languages
 
@@ -11,3 +13,8 @@ Contact Info:
 <a href="https://www.linkedin.com/in/marjanmubarok/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="15%">
 </a>
+
+## 🔥 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->

@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# IDEs/Editors (VSCode, JetBrains, etc.)
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.pid
+
+# Public or private API keys (e.g., Firebase, AWS)
+*.key
+*.pem
+*.p12
+*.json

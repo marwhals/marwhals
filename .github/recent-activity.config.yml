@@ -1,0 +1,8 @@
+# Required: Your GitHub username
+GH_USERNAME: marwhals
+
+# Optional: Number of events to fetch
+MAX_LINES: 5
+
+# Optional: Whether to show emojis
+SHOW_EMOJIS: true
