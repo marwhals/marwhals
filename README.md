@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/latex-slides-template](https://github.com/marwhals/latex-slides-template)<br>
-2. ⬆️ Pushed 4 commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/latex-slides-template](https://github.com/marwhals/latex-slides-template)<br>
-5. 📔 Created new repository [marwhals/latex-slides-template](https://github.com/marwhals/latex-slides-template)<br>
+1. ⬆️ Pushed 3 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/latex-slides-template](https://github.com/marwhals/latex-slides-template)<br>
+3. ⬆️ Pushed 4 commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/latex-slides-template](https://github.com/marwhals/latex-slides-template)<br>
 <!--RECENT_ACTIVITY:end-->
