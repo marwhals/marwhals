@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [marwhals/spring-6-rest-mvc-demo](https://github.com/marwhals/spring-6-rest-mvc-demo)<br>
-2. ⬆️ Pushed 2 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-vertx-reactive-demo](https://github.com/marwhals/quarkus-vertx-reactive-demo)<br>
+1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+2. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
+3. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
+4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
+5. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
 <!--RECENT_ACTIVITY:end-->
