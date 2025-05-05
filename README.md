@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
-3. 📔 Created new repository [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
-4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-5. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+2. 📔 Created new repository [marwhals/spring-webflux-reference](https://github.com/marwhals/spring-webflux-reference)<br>
+3. ⬆️ Pushed 1 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
+5. 📔 Created new repository [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
 <!--RECENT_ACTIVITY:end-->
