@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-2. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
-3. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
-4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
-5. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
+2. 📔 Created new repository [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
+3. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+4. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
+5. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
 <!--RECENT_ACTIVITY:end-->
