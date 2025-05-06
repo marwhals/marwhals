@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-2. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-5. 📔 Created new repository [marwhals/spring-webflux-reference](https://github.com/marwhals/spring-webflux-reference)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+3. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+4. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
 <!--RECENT_ACTIVITY:end-->
