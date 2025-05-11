@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [marwhals/quant-algo-trading](https://github.com/marwhals/quant-algo-trading)<br>
-2. 📔 Created new repository [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
-3. ⬆️ Pushed 3 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-4. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. 📔 Created new repository [marwhals/quant-algo-trading](https://github.com/marwhals/quant-algo-trading)<br>
+3. 📔 Created new repository [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+4. ⬆️ Pushed 3 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+5. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
 <!--RECENT_ACTIVITY:end-->
