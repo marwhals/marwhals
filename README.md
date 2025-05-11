@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-3. ⭐ Starred [DiUS/java-faker](https://github.com/DiUS/java-faker)<br>
-4. 📔 Created new repository [marwhals/reactive-programming-java](https://github.com/marwhals/reactive-programming-java)<br>
-5. 📔 Created new repository [marwhals/aeron-playground](https://github.com/marwhals/aeron-playground)<br>
+1. 📔 Created new repository [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+2. ⬆️ Pushed 3 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+3. ⬆️ Pushed 5 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+5. ⭐ Starred [DiUS/java-faker](https://github.com/DiUS/java-faker)<br>
 <!--RECENT_ACTIVITY:end-->
