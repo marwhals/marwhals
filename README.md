@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DiUS/java-faker](https://github.com/DiUS/java-faker)<br>
-2. 📔 Created new repository [marwhals/reactive-programming-java](https://github.com/marwhals/reactive-programming-java)<br>
-3. 📔 Created new repository [marwhals/aeron-playground](https://github.com/marwhals/aeron-playground)<br>
-4. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+2. ⭐ Starred [DiUS/java-faker](https://github.com/DiUS/java-faker)<br>
+3. 📔 Created new repository [marwhals/reactive-programming-java](https://github.com/marwhals/reactive-programming-java)<br>
+4. 📔 Created new repository [marwhals/aeron-playground](https://github.com/marwhals/aeron-playground)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 <!--RECENT_ACTIVITY:end-->
