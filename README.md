@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath)<br>
-3. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-4. 📔 Created new repository [marwhals/quant-algo-trading](https://github.com/marwhals/quant-algo-trading)<br>
-5. 📔 Created new repository [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+1. 📔 Created new repository [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
+2. ⭐ Starred [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)<br>
+3. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+4. ⭐ Starred [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 <!--RECENT_ACTIVITY:end-->
