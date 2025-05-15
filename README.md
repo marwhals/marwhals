@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
-4. 📔 Created new repository [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
-5. ⭐ Starred [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-demo](https://github.com/marwhals/quarkus-demo)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+3. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
+5. 📔 Created new repository [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
 <!--RECENT_ACTIVITY:end-->
