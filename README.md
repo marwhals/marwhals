@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-This is a personal account for holding code which is either useful or interesting.
+This is a personal account for holding code and notes which are either useful, interesting and of value to future projects.
 
 ---
 ## Languages
