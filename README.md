@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-2. ⭐ Starred [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-demo](https://github.com/marwhals/quarkus-demo)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+3. ⭐ Starred [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-demo](https://github.com/marwhals/quarkus-demo)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
 <!--RECENT_ACTIVITY:end-->
