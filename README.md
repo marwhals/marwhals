@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [marwhals/spring-rsocket-java](https://github.com/marwhals/spring-rsocket-java)<br>
-2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-4. ⭐ Starred [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-demo](https://github.com/marwhals/quarkus-demo)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+2. 📔 Created new repository [marwhals/spring-rsocket-java](https://github.com/marwhals/spring-rsocket-java)<br>
+3. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+5. ⭐ Starred [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala)<br>
 <!--RECENT_ACTIVITY:end-->
