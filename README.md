@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/react-quarkus-demo](https://github.com/marwhals/react-quarkus-demo)<br>
-2. 📔 Created new repository [marwhals/react-quarkus-demo](https://github.com/marwhals/react-quarkus-demo)<br>
-3. ⭐ Starred [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-5. 📔 Created new repository [marwhals/spring-rsocket-java](https://github.com/marwhals/spring-rsocket-java)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/react-quarkus-demo](https://github.com/marwhals/react-quarkus-demo)<br>
+3. 📔 Created new repository [marwhals/react-quarkus-demo](https://github.com/marwhals/react-quarkus-demo)<br>
+4. ⭐ Starred [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
 <!--RECENT_ACTIVITY:end-->
