@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [marwhals/fixed-income-analytics-notes](https://github.com/marwhals/fixed-income-analytics-notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-4. ⭐ Starred [google/tf-quant-finance](https://github.com/google/tf-quant-finance)<br>
-5. ⭐ Starred [quantopian/research_public](https://github.com/quantopian/research_public)<br>
+1. ⬆️ Pushed 19 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+2. 📔 Created new repository [marwhals/fixed-income-analytics-notes](https://github.com/marwhals/fixed-income-analytics-notes)<br>
+3. ⬆️ Pushed 1 commit(s) to [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+5. ⭐ Starred [google/tf-quant-finance](https://github.com/google/tf-quant-finance)<br>
 <!--RECENT_ACTIVITY:end-->
