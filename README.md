@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-2. 📔 Created new repository [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/scala-math-playground](https://github.com/marwhals/scala-math-playground)<br>
-4. ⬆️ Pushed 2 commit(s) to [marwhals/scala-math-playground](https://github.com/marwhals/scala-math-playground)<br>
-5. 📔 Created new repository [marwhals/kotlin-concurrency](https://github.com/marwhals/kotlin-concurrency)<br>
+1. ⬆️ Pushed 7 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+2. ⬆️ Pushed 3 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+3. 📔 Created new repository [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/scala-math-playground](https://github.com/marwhals/scala-math-playground)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/scala-math-playground](https://github.com/marwhals/scala-math-playground)<br>
 <!--RECENT_ACTIVITY:end-->
