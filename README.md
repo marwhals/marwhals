@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-2. ⭐ Starred [google/tf-quant-finance](https://github.com/google/tf-quant-finance)<br>
-3. ⭐ Starred [quantopian/research_public](https://github.com/quantopian/research_public)<br>
-4. ⬆️ Pushed 7 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-5. ⬆️ Pushed 3 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
+3. ⭐ Starred [google/tf-quant-finance](https://github.com/google/tf-quant-finance)<br>
+4. ⭐ Starred [quantopian/research_public](https://github.com/quantopian/research_public)<br>
+5. ⬆️ Pushed 7 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
 <!--RECENT_ACTIVITY:end-->
