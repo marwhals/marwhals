@@ -6,8 +6,7 @@ This is a personal account for holding code and notes which are either useful, i
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwhals&layout=compact&bg_color=282c34&text_color=ffffff&title_color=ff5733)
-
-#### 🧂 *A bit misleading* 
+ 
 ---
 Contact Info:
 
