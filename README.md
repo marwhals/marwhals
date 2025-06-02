@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-2. ⬆️ Pushed 4 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-3. ⬆️ Pushed 19 commit(s) to [marwhals/scala-macros](https://github.com/marwhals/scala-macros)<br>
-4. 📔 Created new repository [marwhals/fixed-income-analytics-notes](https://github.com/marwhals/fixed-income-analytics-notes)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/finance-statistics-udemy](https://github.com/marwhals/finance-statistics-udemy)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/langchain-udemy](https://github.com/marwhals/langchain-udemy)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/langchain-udemy](https://github.com/marwhals/langchain-udemy)<br>
+3. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 <!--RECENT_ACTIVITY:end-->
