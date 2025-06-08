@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⭐ Starred [b-mehta/topos](https://github.com/b-mehta/topos)<br>
+2. ⭐ Starred [ToposInstitute/poly](https://github.com/ToposInstitute/poly)<br>
+3. ⭐ Starred [Mzk-Levi/texts](https://github.com/Mzk-Levi/texts)<br>
+4. ⭐ Starred [softwaremill/magnolia](https://github.com/softwaremill/magnolia)<br>
+5. ⭐ Starred [underscoreio/shapeless-guide](https://github.com/underscoreio/shapeless-guide)<br>
 <!--RECENT_ACTIVITY:end-->
