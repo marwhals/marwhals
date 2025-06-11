@@ -6,7 +6,7 @@ This is a personal account for holding code and notes which are either useful, i
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwhals&layout=compact&bg_color=282c34&text_color=ffffff&title_color=ff5733)
-
+ 
 ---
 Contact Info:
 
@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/quarkus-demo](https://github.com/marwhals/quarkus-demo)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/lmax-disruptor-demo](https://github.com/marwhals/lmax-disruptor-demo)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
+2. ⭐ Starred [b-mehta/topos](https://github.com/b-mehta/topos)<br>
+3. ⭐ Starred [ToposInstitute/poly](https://github.com/ToposInstitute/poly)<br>
+4. ⭐ Starred [Mzk-Levi/texts](https://github.com/Mzk-Levi/texts)<br>
+5. ⭐ Starred [softwaremill/magnolia](https://github.com/softwaremill/magnolia)<br>
 <!--RECENT_ACTIVITY:end-->
