@@ -1,0 +1,30 @@
+name: List GitHub Repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight
+  workflow_dispatch:
+
+jobs:
+  list_repos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq # For parsing JSON safely - alternative to less reliable 'grep' and 'awk'
+        run: |
+          sudo apt-get update
+          sudo apt-get install jq -y
+
+      - name: Run script to list repositories
+        run: |
+          chmod +x scripts/list_github_repos.sh
+          scripts/list_github_repos.sh marwahls
+
+      - name: Upload output file as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-repos-list
+          path: repos.txt
