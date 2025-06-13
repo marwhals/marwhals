@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+1. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 3. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-4. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 <!--RECENT_ACTIVITY:end-->
