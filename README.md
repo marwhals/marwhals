@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [marwhals/spring-reactive-kafka](https://github.com/marwhals/spring-reactive-kafka)<br>
-2. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-3. ⭐ Starred [c-cube/sidekick](https://github.com/c-cube/sidekick)<br>
-4. ⭐ Starred [stp/stp](https://github.com/stp/stp)<br>
-5. ⭐ Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. 📔 Created new repository [marwhals/reactive-redis-webflux](https://github.com/marwhals/reactive-redis-webflux)<br>
+3. 📔 Created new repository [marwhals/reactive-spring-graphQL](https://github.com/marwhals/reactive-spring-graphQL)<br>
+4. 📔 Created new repository [marwhals/spring-reactive-kafka](https://github.com/marwhals/spring-reactive-kafka)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 <!--RECENT_ACTIVITY:end-->
