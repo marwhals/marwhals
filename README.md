@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-2. ⭐ Starred [c-cube/sidekick](https://github.com/c-cube/sidekick)<br>
-3. ⭐ Starred [stp/stp](https://github.com/stp/stp)<br>
-4. ⭐ Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)<br>
-5. ⭐ Starred [AvivYaish/SMTsolver](https://github.com/AvivYaish/SMTsolver)<br>
+1. 📔 Created new repository [marwhals/spring-reactive-kafka](https://github.com/marwhals/spring-reactive-kafka)<br>
+2. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+3. ⭐ Starred [c-cube/sidekick](https://github.com/c-cube/sidekick)<br>
+4. ⭐ Starred [stp/stp](https://github.com/stp/stp)<br>
+5. ⭐ Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)<br>
 <!--RECENT_ACTIVITY:end-->
