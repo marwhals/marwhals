@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/spring-framework-reference](https://github.com/marwhals/spring-framework-reference)<br>
-2. ⭐ Starred [b-mehta/topos](https://github.com/b-mehta/topos)<br>
-3. ⭐ Starred [ToposInstitute/poly](https://github.com/ToposInstitute/poly)<br>
-4. ⭐ Starred [Mzk-Levi/texts](https://github.com/Mzk-Levi/texts)<br>
-5. ⭐ Starred [softwaremill/magnolia](https://github.com/softwaremill/magnolia)<br>
+1. ⭐ Starred [c-cube/sidekick](https://github.com/c-cube/sidekick)<br>
+2. ⭐ Starred [stp/stp](https://github.com/stp/stp)<br>
+3. ⭐ Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)<br>
+4. ⭐ Starred [AvivYaish/SMTsolver](https://github.com/AvivYaish/SMTsolver)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 <!--RECENT_ACTIVITY:end-->
