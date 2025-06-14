@@ -21,7 +21,7 @@ jobs:
       - name: Run script to list repositories
         run: |
           chmod +x scripts/list_github_repos.sh
-          scripts/list_github_repos.sh marwahls
+          scripts/list_github_repos.sh marwhals
 
       - name: Upload output file as artifact
         uses: actions/upload-artifact@v4
