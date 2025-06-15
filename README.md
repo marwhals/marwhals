@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. 📔 Created new repository [marwhals/reactive-redis-webflux](https://github.com/marwhals/reactive-redis-webflux)<br>
-3. 📔 Created new repository [marwhals/reactive-spring-graphQL](https://github.com/marwhals/reactive-spring-graphQL)<br>
-4. 📔 Created new repository [marwhals/spring-reactive-kafka](https://github.com/marwhals/spring-reactive-kafka)<br>
-5. ⬆️ Pushed 2 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+1. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
+2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. 📔 Created new repository [marwhals/reactive-redis-webflux](https://github.com/marwhals/reactive-redis-webflux)<br>
+4. 📔 Created new repository [marwhals/reactive-spring-graphQL](https://github.com/marwhals/reactive-spring-graphQL)<br>
+5. 📔 Created new repository [marwhals/spring-reactive-kafka](https://github.com/marwhals/spring-reactive-kafka)<br>
 <!--RECENT_ACTIVITY:end-->
