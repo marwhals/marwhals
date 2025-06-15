@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)<br>
-2. ⭐ Starred [dbrojas/optlib](https://github.com/dbrojas/optlib)<br>
-3. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
-4. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-5. 📔 Created new repository [marwhals/reactive-redis-webflux](https://github.com/marwhals/reactive-redis-webflux)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)<br>
+3. ⭐ Starred [dbrojas/optlib](https://github.com/dbrojas/optlib)<br>
+4. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
+5. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 <!--RECENT_ACTIVITY:end-->
