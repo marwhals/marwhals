@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)<br>
-3. ⭐ Starred [dbrojas/optlib](https://github.com/dbrojas/optlib)<br>
-4. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
-5. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)<br>
+4. ⭐ Starred [dbrojas/optlib](https://github.com/dbrojas/optlib)<br>
+5. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)<br>
 <!--RECENT_ACTIVITY:end-->
