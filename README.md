@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
-3. ⬆️ Pushed 20 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
-4. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. 📔 Created new repository [marwhals/spark-performance-tuning](https://github.com/marwhals/spark-performance-tuning)<br>
+2. 📔 Created new repository [marwhals/spark-optimisation](https://github.com/marwhals/spark-optimisation)<br>
+3. 📔 Created new repository [marwhals/spark-streaming](https://github.com/marwhals/spark-streaming)<br>
+4. ⬆️ Pushed 4 commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
 <!--RECENT_ACTIVITY:end-->
