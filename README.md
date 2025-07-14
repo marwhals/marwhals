@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 17 commit(s) to [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
-2. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
+1. ⬆️ Pushed 21 commit(s) to [marwhals/spark-streaming](https://github.com/marwhals/spark-streaming)<br>
+2. ⬆️ Pushed 17 commit(s) to [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
 3. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/kotlin-concurrency](https://github.com/marwhals/kotlin-concurrency)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/devops-linux-tooling-notes](https://github.com/marwhals/devops-linux-tooling-notes)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/kotlin-concurrency](https://github.com/marwhals/kotlin-concurrency)<br>
 <!--RECENT_ACTIVITY:end-->
