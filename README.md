@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-2. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
-3. 📔 Created new repository [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
-4. 📔 Created new repository [marwhals/zio-practice](https://github.com/marwhals/zio-practice)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
+1. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+3. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
+4. 📔 Created new repository [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+5. 📔 Created new repository [marwhals/zio-practice](https://github.com/marwhals/zio-practice)<br>
 <!--RECENT_ACTIVITY:end-->
