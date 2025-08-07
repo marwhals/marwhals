@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/kafka-reference](https://github.com/marwhals/kafka-reference)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/spark-streaming](https://github.com/marwhals/spark-streaming)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/spark-streaming](https://github.com/marwhals/spark-streaming)<br>
+1. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+4. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
+5. 📔 Created new repository [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
 <!--RECENT_ACTIVITY:end-->
