@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 2. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-4. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
-5. 📔 Created new repository [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+3. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+4. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+5. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
 <!--RECENT_ACTIVITY:end-->
