@@ -19,9 +19,9 @@ Contact Info:
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⭐ Starred [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training)<br>
+2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 3. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-4. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-5. 📔 Created new repository [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
+4. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+5. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
 <!--RECENT_ACTIVITY:end-->
