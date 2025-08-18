@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [c-cube/sidekick](https://github.com/c-cube/sidekick)<br>
-2. ⭐ Starred [stp/stp](https://github.com/stp/stp)<br>
-3. ⭐ Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)<br>
-4. ⭐ Starred [AvivYaish/SMTsolver](https://github.com/AvivYaish/SMTsolver)<br>
-5. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⭐ Starred [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training)<br>
+2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+4. ⬆️ Pushed 3 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+5. 📔 Created new repository [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
