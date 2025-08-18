@@ -16,3 +16,6 @@
 *.pem
 *.p12
 *.json
+
+# Completely ignore "ignore" folder (including the folder itself)
+ignore/
