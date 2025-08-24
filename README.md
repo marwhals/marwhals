@@ -26,9 +26,9 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 43 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
-2. ⬆️ Pushed 0 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+1. ⬆️ Pushed 2 commit(s) to [marwhals/reactive-spring-kafka](https://github.com/marwhals/reactive-spring-kafka)<br>
+2. ⬆️ Pushed 43 commit(s) to [marwhals/reactive-design-patterns](https://github.com/marwhals/reactive-design-patterns)<br>
+3. ⬆️ Pushed 0 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 4. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 5. ⬆️ Pushed 1 commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
 <!--RECENT_ACTIVITY:end-->
