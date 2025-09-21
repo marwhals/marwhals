@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⬆️ Pushed 23 commit(s) to [marwhals/flink-practice](https://github.com/marwhals/flink-practice)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
-4. ⬆️ Pushed 1 commit(s) to [marwhals/kotiln-advanced-practice](https://github.com/marwhals/kotiln-advanced-practice)<br>
-5. ⬆️ Pushed 7 commit(s) to [marwhals/kotiln-advanced-practice](https://github.com/marwhals/kotiln-advanced-practice)<br>
+1. ⬆️ Pushed 8 commit(s) to [marwhals/kotlin-concurrency](https://github.com/marwhals/kotlin-concurrency)<br>
+2. ⬆️ Pushed 5 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⬆️ Pushed 23 commit(s) to [marwhals/flink-practice](https://github.com/marwhals/flink-practice)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
+5. ⬆️ Pushed 1 commit(s) to [marwhals/kotiln-advanced-practice](https://github.com/marwhals/kotiln-advanced-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
