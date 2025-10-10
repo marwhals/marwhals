@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
-2. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-4. ⬆️ Pushed 3 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
-5. ⬆️ Pushed 4 commit(s) to [marwhals/reactive-programming-java](https://github.com/marwhals/reactive-programming-java)<br>
+1. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed 1 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
+3. ⬆️ Pushed 2 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+4. ⬆️ Pushed 1 commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+5. ⬆️ Pushed 3 commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
