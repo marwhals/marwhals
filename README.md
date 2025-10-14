@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-2. ⭐ Starred [pmoskovi/flink-learning-resources](https://github.com/pmoskovi/flink-learning-resources)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/flink-practice](https://github.com/marwhals/flink-practice)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/machine-learning-notes](https://github.com/marwhals/machine-learning-notes)<br>
+1. ⭐ Starred [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+3. ⭐ Starred [pmoskovi/flink-learning-resources](https://github.com/pmoskovi/flink-learning-resources)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/flink-practice](https://github.com/marwhals/flink-practice)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
