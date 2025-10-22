@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
-2. ⭐ Starred [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
-4. ⭐ Starred [pmoskovi/flink-learning-resources](https://github.com/pmoskovi/flink-learning-resources)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/flink-practice](https://github.com/marwhals/flink-practice)<br>
+1. ⭐ Starred [apache/spark](https://github.com/apache/spark)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/spark-essentials](https://github.com/marwhals/spark-essentials)<br>
+3. ⭐ Starred [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/python-data-playground](https://github.com/marwhals/python-data-playground)<br>
+5. ⭐ Starred [pmoskovi/flink-learning-resources](https://github.com/pmoskovi/flink-learning-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
