@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-2. ⭐ Starred [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)<br>
-3. ⭐ Starred [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin)<br>
-4. ⭐ Starred [edenhill/kcat](https://github.com/edenhill/kcat)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+3. ⭐ Starred [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)<br>
+4. ⭐ Starred [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin)<br>
+5. ⭐ Starred [edenhill/kcat](https://github.com/edenhill/kcat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
