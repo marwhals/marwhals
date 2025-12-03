@@ -26,10 +26,10 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-2. ⭐ Starred [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples)<br>
+1. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)<br>
+2. ⭐ Starred [gatling/gatling](https://github.com/gatling/gatling)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+4. ⭐ Starred [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples)<br>
 5. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
