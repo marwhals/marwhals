@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)<br>
-2. ⭐ Starred [theEmbeddedGeorge/theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-4. ⭐ Starred [typelevel/scalacheck](https://github.com/typelevel/scalacheck)<br>
-5. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+2. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)<br>
+3. ⭐ Starred [theEmbeddedGeorge/theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+5. ⭐ Starred [typelevel/scalacheck](https://github.com/typelevel/scalacheck)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
