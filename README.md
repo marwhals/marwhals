@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
 2. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-3. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)<br>
-4. ⭐ Starred [theEmbeddedGeorge/theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
+4. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)<br>
+5. ⭐ Starred [theEmbeddedGeorge/theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
