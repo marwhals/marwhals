@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
-2. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/react-udemy](https://github.com/marwhals/react-udemy)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+1. ⭐ Starred [grafana/k6](https://github.com/grafana/k6)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+3. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/react-udemy](https://github.com/marwhals/react-udemy)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/clean-hexagonal-microservices-architecture-practice](https://github.com/marwhals/clean-hexagonal-microservices-architecture-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
