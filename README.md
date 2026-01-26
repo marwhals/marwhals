@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
-2. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+3. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/akka-typed-practice](https://github.com/marwhals/akka-typed-practice)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
