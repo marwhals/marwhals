@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
-2. ⭐ Starred [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)<br>
-3. ⭐ Starred [sunnysaxena/Quantitative-Finance](https://github.com/sunnysaxena/Quantitative-Finance)<br>
-4. ⭐ Starred [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources)<br>
-5. ⭐ Starred [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
+3. ⭐ Starred [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)<br>
+4. ⭐ Starred [sunnysaxena/Quantitative-Finance](https://github.com/sunnysaxena/Quantitative-Finance)<br>
+5. ⭐ Starred [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
