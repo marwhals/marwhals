@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)<br>
-2. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
-5. ⭐ Starred [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+2. ⭐ Starred [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)<br>
+3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/akka-streams-practice](https://github.com/marwhals/akka-streams-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
