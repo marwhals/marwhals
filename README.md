@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)<br>
-2. ⭐ Starred [vega/altair](https://github.com/vega/altair)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-4. ⭐ Starred [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)<br>
-5. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
+1. ⭐ Starred [lballabio/QuantLib](https://github.com/lballabio/QuantLib)<br>
+2. ⭐ Starred [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)<br>
+3. ⭐ Starred [vega/altair](https://github.com/vega/altair)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+5. ⭐ Starred [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
