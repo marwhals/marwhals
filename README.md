@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/scala3-practice](https://github.com/marwhals/scala3-practice)<br>
-2. ⭐ Starred [lballabio/QuantLib](https://github.com/lballabio/QuantLib)<br>
-3. ⭐ Starred [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)<br>
-4. ⭐ Starred [vega/altair](https://github.com/vega/altair)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/scala3-practice](https://github.com/marwhals/scala3-practice)<br>
+3. ⭐ Starred [lballabio/QuantLib](https://github.com/lballabio/QuantLib)<br>
+4. ⭐ Starred [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)<br>
+5. ⭐ Starred [vega/altair](https://github.com/vega/altair)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
