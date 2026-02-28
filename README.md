@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)<br>
-2. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
-3. ⭐ Starred [sbilly/awesome-security](https://github.com/sbilly/awesome-security)<br>
-4. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+1. ⭐ Starred [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code)<br>
+2. ⭐ Starred [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)<br>
+3. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
+4. ⭐ Starred [sbilly/awesome-security](https://github.com/sbilly/awesome-security)<br>
+5. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
