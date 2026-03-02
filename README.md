@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)<br>
-2. ⭐ Starred [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code)<br>
-3. ⭐ Starred [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)<br>
-4. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
-5. ⭐ Starred [sbilly/awesome-security](https://github.com/sbilly/awesome-security)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+2. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)<br>
+3. ⭐ Starred [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code)<br>
+4. ⭐ Starred [guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)<br>
+5. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
