@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)<br>
-2. ⭐ Starred [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome)<br>
-3. ⭐ Starred [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit)<br>
-4. ⭐ Starred [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+2. ⭐ Starred [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)<br>
+3. ⭐ Starred [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome)<br>
+4. ⭐ Starred [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit)<br>
+5. ⭐ Starred [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
