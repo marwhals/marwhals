@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-2. ⭐ Starred [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)<br>
-3. ⭐ Starred [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome)<br>
-4. ⭐ Starred [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit)<br>
-5. ⭐ Starred [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+3. ⭐ Starred [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)<br>
+4. ⭐ Starred [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome)<br>
+5. ⭐ Starred [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
