@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-4. ⭐ Starred [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)<br>
-5. ⭐ Starred [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome)<br>
+1. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)<br>
+2. ⭐ Starred [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)<br>
+3. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
+4. ⭐ Starred [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)<br>
+5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
