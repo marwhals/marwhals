@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list)<br>
-2. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)<br>
-3. ⭐ Starred [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage)<br>
-4. ⭐ Starred [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables)<br>
-5. ⭐ Starred [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)<br>
+1. ⭐ Starred [donbarbos/awesome-standards](https://github.com/donbarbos/awesome-standards)<br>
+2. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)<br>
+3. ⭐ Starred [stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info)<br>
+4. ⭐ Starred [thisisisa/awesome-permacomputing](https://github.com/thisisisa/awesome-permacomputing)<br>
+5. ⭐ Starred [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
