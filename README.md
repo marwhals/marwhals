@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli)<br>
-2. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)<br>
-3. ⭐ Starred [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)<br>
-4. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-5. ⭐ Starred [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)<br>
+1. ⭐ Starred [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list)<br>
+2. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)<br>
+3. ⭐ Starred [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage)<br>
+4. ⭐ Starred [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables)<br>
+5. ⭐ Starred [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
