@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [softwaremill/tapir](https://github.com/softwaremill/tapir)<br>
-3. ⭐ Starred [donbarbos/awesome-standards](https://github.com/donbarbos/awesome-standards)<br>
-4. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)<br>
-5. ⭐ Starred [stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+3. ⭐ Starred [softwaremill/tapir](https://github.com/softwaremill/tapir)<br>
+4. ⭐ Starred [donbarbos/awesome-standards](https://github.com/donbarbos/awesome-standards)<br>
+5. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
