@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-3. ⭐ Starred [softwaremill/tapir](https://github.com/softwaremill/tapir)<br>
-4. ⭐ Starred [donbarbos/awesome-standards](https://github.com/donbarbos/awesome-standards)<br>
-5. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)<br>
+1. ⭐ Starred [awesomo4000/awesome-provable](https://github.com/awesomo4000/awesome-provable)<br>
+2. ⭐ Starred [SatyendraBanjare/plt-formal-methods-resources](https://github.com/SatyendraBanjare/plt-formal-methods-resources)<br>
+3. ⭐ Starred [WilfredTA/formal-methods-curriculum](https://github.com/WilfredTA/formal-methods-curriculum)<br>
+4. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
