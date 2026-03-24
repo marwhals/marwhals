@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [awesomo4000/awesome-provable](https://github.com/awesomo4000/awesome-provable)<br>
-2. ⭐ Starred [SatyendraBanjare/plt-formal-methods-resources](https://github.com/SatyendraBanjare/plt-formal-methods-resources)<br>
-3. ⭐ Starred [WilfredTA/formal-methods-curriculum](https://github.com/WilfredTA/formal-methods-curriculum)<br>
-4. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+1. ⭐ Starred [py-why/EconML](https://github.com/py-why/EconML)<br>
+2. ⭐ Starred [stripe/rainier](https://github.com/stripe/rainier)<br>
+3. ⭐ Starred [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)<br>
+4. ⭐ Starred [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)<br>
+5. ⭐ Starred [awesomo4000/awesome-provable](https://github.com/awesomo4000/awesome-provable)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
