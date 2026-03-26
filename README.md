@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
-2. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
-3. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-5. ⭐ Starred [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+2. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
+3. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
+4. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
