@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)<br>
-3. ⭐ Starred [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof)<br>
-4. ⭐ Starred [leanprover/theorem_proving_in_lean4](https://github.com/leanprover/theorem_proving_in_lean4)<br>
-5. ⭐ Starred [py-why/EconML](https://github.com/py-why/EconML)<br>
+1. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
+2. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+4. ⭐ Starred [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)<br>
+5. ⭐ Starred [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
