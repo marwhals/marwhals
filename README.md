@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-2. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
-3. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
-4. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+1. ⭐ Starred [udelblue/project-management-templates](https://github.com/udelblue/project-management-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+3. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
+4. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
+5. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
