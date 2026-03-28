@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [datasets/oil-prices](https://github.com/datasets/oil-prices)<br>
-2. ⭐ Starred [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)<br>
-3. ⭐ Starred [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)<br>
-4. ⭐ Starred [udelblue/project-management-templates](https://github.com/udelblue/project-management-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+1. ⭐ Starred [m8/awesome-arduino](https://github.com/m8/awesome-arduino)<br>
+2. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
+3. ⭐ Starred [datasets/oil-prices](https://github.com/datasets/oil-prices)<br>
+4. ⭐ Starred [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)<br>
+5. ⭐ Starred [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
