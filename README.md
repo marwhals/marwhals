@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [udelblue/project-management-templates](https://github.com/udelblue/project-management-templates)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
-3. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
-4. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
-5. ⭐ Starred [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)<br>
+1. ⭐ Starred [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)<br>
+2. ⭐ Starred [udelblue/project-management-templates](https://github.com/udelblue/project-management-templates)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/akka-http-practice](https://github.com/marwhals/akka-http-practice)<br>
+4. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
+5. ⭐ Starred [protontypes/open-business-models](https://github.com/protontypes/open-business-models)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
