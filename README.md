@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [m8/awesome-arduino](https://github.com/m8/awesome-arduino)<br>
-2. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
-3. ⭐ Starred [datasets/oil-prices](https://github.com/datasets/oil-prices)<br>
-4. ⭐ Starred [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)<br>
-5. ⭐ Starred [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+2. ⭐ Starred [divithraju/divith-raju-Immigration-Data-Engineering](https://github.com/divithraju/divith-raju-Immigration-Data-Engineering)<br>
+3. ⭐ Starred [m8/awesome-arduino](https://github.com/m8/awesome-arduino)<br>
+4. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
+5. ⭐ Starred [datasets/oil-prices](https://github.com/datasets/oil-prices)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
