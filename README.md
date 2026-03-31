@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [scala-js/scala-js](https://github.com/scala-js/scala-js)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-4. ⭐ Starred [divithraju/divith-raju-Immigration-Data-Engineering](https://github.com/divithraju/divith-raju-Immigration-Data-Engineering)<br>
-5. ⭐ Starred [m8/awesome-arduino](https://github.com/m8/awesome-arduino)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+2. ⭐ Starred [cheat-sheets/game-theory-cheat-sheet](https://github.com/cheat-sheets/game-theory-cheat-sheet)<br>
+3. ⭐ Starred [hades217/awesome-ai](https://github.com/hades217/awesome-ai)<br>
+4. ⭐ Starred [datamllab/awesome-game-ai](https://github.com/datamllab/awesome-game-ai)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
