@@ -4,7 +4,7 @@
 
 </div>
 
-This is a personal account for holding code and notes which are either useful, interesting and of value to future projects.
+This is a personal account for holding code and notes which are either useful, interesting or of value to future projects.
 
 ---
 ## Languages
