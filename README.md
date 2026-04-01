@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)<br>
-3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-4. ⭐ Starred [fffaraz/awesome-selfhosted-aws](https://github.com/fffaraz/awesome-selfhosted-aws)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/marwhals](https://github.com/marwhals/marwhals)<br>
+1. ⭐ Starred [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga)<br>
+2. ⭐ Starred [drom/awesome-hdl](https://github.com/drom/awesome-hdl)<br>
+3. ⭐ Starred [L4ventures/awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)<br>
+4. ⭐ Starred [cheat-sheets/cryptoeconomics-cheat-sheet](https://github.com/cheat-sheets/cryptoeconomics-cheat-sheet)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
