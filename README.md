@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga)<br>
-3. ⭐ Starred [drom/awesome-hdl](https://github.com/drom/awesome-hdl)<br>
-4. ⭐ Starred [L4ventures/awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)<br>
-5. ⭐ Starred [cheat-sheets/cryptoeconomics-cheat-sheet](https://github.com/cheat-sheets/cryptoeconomics-cheat-sheet)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+3. ⭐ Starred [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga)<br>
+4. ⭐ Starred [drom/awesome-hdl](https://github.com/drom/awesome-hdl)<br>
+5. ⭐ Starred [L4ventures/awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
