@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-3. ⭐ Starred [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga)<br>
-4. ⭐ Starred [drom/awesome-hdl](https://github.com/drom/awesome-hdl)<br>
-5. ⭐ Starred [L4ventures/awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)<br>
+1. ⭐ Starred [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard)<br>
+2. ⭐ Starred [datavis-tech/awesome-dataviz-education](https://github.com/datavis-tech/awesome-dataviz-education)<br>
+3. ⭐ Starred [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
