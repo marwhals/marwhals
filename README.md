@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-2. ⭐ Starred [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)<br>
+1. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-4. ⭐ Starred [arc42/arc42-process](https://github.com/arc42/arc42-process)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/d3-practice](https://github.com/marwhals/d3-practice)<br>
+4. ⭐ Starred [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
