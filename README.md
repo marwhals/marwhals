@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)<br>
-2. ⭐ Starred [dotnet/eShop](https://github.com/dotnet/eShop)<br>
-3. ⭐ Starred [TNG/ArchUnit](https://github.com/TNG/ArchUnit)<br>
-4. ⭐ Starred [webpro/programming-principles](https://github.com/webpro/programming-principles)<br>
-5. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)<br>
+1. ⭐ Starred [yasenstar/EA](https://github.com/yasenstar/EA)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+3. ⭐ Starred [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)<br>
+4. ⭐ Starred [dotnet/eShop](https://github.com/dotnet/eShop)<br>
+5. ⭐ Starred [TNG/ArchUnit](https://github.com/TNG/ArchUnit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
