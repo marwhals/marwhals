@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CodeBoarding/awesome-architecture-mds](https://github.com/CodeBoarding/awesome-architecture-mds)<br>
-2. ⭐ Starred [SSWConsulting/awesome-clean-architecture](https://github.com/SSWConsulting/awesome-clean-architecture)<br>
-3. ⭐ Starred [yasenstar/EA](https://github.com/yasenstar/EA)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-5. ⭐ Starred [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)<br>
+1. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)<br>
+2. ⭐ Starred [CodeBoarding/awesome-architecture-mds](https://github.com/CodeBoarding/awesome-architecture-mds)<br>
+3. ⭐ Starred [SSWConsulting/awesome-clean-architecture](https://github.com/SSWConsulting/awesome-clean-architecture)<br>
+4. ⭐ Starred [yasenstar/EA](https://github.com/yasenstar/EA)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
