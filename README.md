@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-3. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)<br>
-4. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)<br>
-5. ⭐ Starred [CodeBoarding/awesome-architecture-mds](https://github.com/CodeBoarding/awesome-architecture-mds)<br>
+1. ⭐ Starred [upgundecha/awesome-pt](https://github.com/upgundecha/awesome-pt)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+4. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)<br>
+5. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
