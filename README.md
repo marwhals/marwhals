@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zxing/zxing](https://github.com/zxing/zxing)<br>
-2. ⭐ Starred [upgundecha/awesome-pt](https://github.com/upgundecha/awesome-pt)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-5. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+2. ⭐ Starred [zxing/zxing](https://github.com/zxing/zxing)<br>
+3. ⭐ Starred [upgundecha/awesome-pt](https://github.com/upgundecha/awesome-pt)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
