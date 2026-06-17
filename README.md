@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+1. ⭐ Starred [hasanxdev/Test-Roadmap-For-Developers](https://github.com/hasanxdev/Test-Roadmap-For-Developers)<br>
 2. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
-3. ⭐ Starred [zxing/zxing](https://github.com/zxing/zxing)<br>
-4. ⭐ Starred [upgundecha/awesome-pt](https://github.com/upgundecha/awesome-pt)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+4. ⭐ Starred [zxing/zxing](https://github.com/zxing/zxing)<br>
+5. ⭐ Starred [upgundecha/awesome-pt](https://github.com/upgundecha/awesome-pt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
