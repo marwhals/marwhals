@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-3. ⭐ Starred [micrometer-metrics/tracing](https://github.com/micrometer-metrics/tracing)<br>
-4. ⭐ Starred [hasanxdev/Test-Roadmap-For-Developers](https://github.com/hasanxdev/Test-Roadmap-For-Developers)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/event-driven-microservices-practice](https://github.com/marwhals/event-driven-microservices-practice)<br>
+1. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
+2. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+4. ⭐ Starred [micrometer-metrics/tracing](https://github.com/micrometer-metrics/tracing)<br>
+5. ⭐ Starred [hasanxdev/Test-Roadmap-For-Developers](https://github.com/hasanxdev/Test-Roadmap-For-Developers)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
