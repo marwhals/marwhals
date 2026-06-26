@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
-2. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-4. ⭐ Starred [micrometer-metrics/tracing](https://github.com/micrometer-metrics/tracing)<br>
-5. ⭐ Starred [hasanxdev/Test-Roadmap-For-Developers](https://github.com/hasanxdev/Test-Roadmap-For-Developers)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+2. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
+3. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+5. ⭐ Starred [micrometer-metrics/tracing](https://github.com/micrometer-metrics/tracing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
