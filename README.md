@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-2. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
-3. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-5. ⭐ Starred [micrometer-metrics/tracing](https://github.com/micrometer-metrics/tracing)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+3. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
+4. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
