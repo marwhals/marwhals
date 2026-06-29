@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+1. ⭐ Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>
 2. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-3. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
-4. ⭐ Starred [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+5. ⭐ Starred [openzipkin/zipkin](https://github.com/openzipkin/zipkin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
