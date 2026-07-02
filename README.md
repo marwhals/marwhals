@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-4. ⭐ Starred [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd)<br>
-5. ⭐ Starred [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/terraform-notes](https://github.com/marwhals/terraform-notes)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/aws-sol-arch-pro-notes](https://github.com/marwhals/aws-sol-arch-pro-notes)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+5. ⭐ Starred [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
