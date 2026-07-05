@@ -27,9 +27,9 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-2. ⭐ Starred [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/terraform-notes](https://github.com/marwhals/terraform-notes)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
 5. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
