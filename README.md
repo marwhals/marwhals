@@ -26,8 +26,8 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
+1. ⭐ Starred [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
 4. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
 5. ⬆️ Pushed undefined commit(s) to [marwhals/kubernetes-notes](https://github.com/marwhals/kubernetes-notes)<br>
