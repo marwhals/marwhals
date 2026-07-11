@@ -27,10 +27,10 @@ This is a personal account for holding code and notes which are either useful, i
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/java-25-practice](https://github.com/marwhals/java-25-practice)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-4. ⭐ Starred [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [marwhals/java-25-practice](https://github.com/marwhals/java-25-practice)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
+5. ⭐ Starred [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
