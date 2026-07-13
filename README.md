@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-2. ⭐ Starred [timothywarner-org/claude-architect](https://github.com/timothywarner-org/claude-architect)<br>
+1. ⭐ Starred [conduktor/awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect)<br>
+2. ⭐ Starred [conduktor/awesome-kafka](https://github.com/conduktor/awesome-kafka)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/java-25-practice](https://github.com/marwhals/java-25-practice)<br>
+4. ⭐ Starred [timothywarner-org/claude-architect](https://github.com/timothywarner-org/claude-architect)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
