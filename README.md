@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture)<br>
-2. ⭐ Starred [conduktor/awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect)<br>
-3. ⭐ Starred [conduktor/awesome-kafka](https://github.com/conduktor/awesome-kafka)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-5. ⭐ Starred [timothywarner-org/claude-architect](https://github.com/timothywarner-org/claude-architect)<br>
+1. ⭐ Starred [DataForScience/Epidemiology101](https://github.com/DataForScience/Epidemiology101)<br>
+2. ⭐ Starred [EpiModel/EpiModel](https://github.com/EpiModel/EpiModel)<br>
+3. ⭐ Starred [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture)<br>
+4. ⭐ Starred [conduktor/awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect)<br>
+5. ⭐ Starred [conduktor/awesome-kafka](https://github.com/conduktor/awesome-kafka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
