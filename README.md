@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scala/scala3](https://github.com/scala/scala3)<br>
-2. ⭐ Starred [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
-4. ⭐ Starred [DataForScience/Epidemiology101](https://github.com/DataForScience/Epidemiology101)<br>
-5. ⭐ Starred [EpiModel/EpiModel](https://github.com/EpiModel/EpiModel)<br>
+1. ⭐ Starred [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis)<br>
+2. ⭐ Starred [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)<br>
+3. ⭐ Starred [scala/scala3](https://github.com/scala/scala3)<br>
+4. ⭐ Starred [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/docker-notes](https://github.com/marwhals/docker-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
