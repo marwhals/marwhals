@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core)<br>
-2. ⭐ Starred [ktorio/ktor](https://github.com/ktorio/ktor)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/practice-airline-booking](https://github.com/marwhals/practice-airline-booking)<br>
-4. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/react-udemy](https://github.com/marwhals/react-udemy)<br>
+1. ⭐ Starred [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x)<br>
+2. ⭐ Starred [quarkusio/quarkus](https://github.com/quarkusio/quarkus)<br>
+3. ⭐ Starred [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core)<br>
+4. ⭐ Starred [ktorio/ktor](https://github.com/ktorio/ktor)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/practice-airline-booking](https://github.com/marwhals/practice-airline-booking)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
