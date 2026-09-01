@@ -29,8 +29,6 @@ This is a personal account for holding code and notes which are either useful, i
 1. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
 2. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
 3. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
-4. ⭐ Starred [gatling/gatling-maven-plugin-demo-java](https://github.com/gatling/gatling-maven-plugin-demo-java)<br>
-5. ⭐ Starred [gatling/gatling-maven-plugin-demo-scala](https://github.com/gatling/gatling-maven-plugin-demo-scala)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
