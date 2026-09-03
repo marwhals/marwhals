@@ -28,7 +28,6 @@ This is a personal account for holding code and notes which are either useful, i
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
 2. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/gatling-practice](https://github.com/marwhals/gatling-practice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
