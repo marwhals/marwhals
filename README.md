@@ -26,7 +26,9 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unclebob/crap4java](https://github.com/unclebob/crap4java)<br>
+1. ⭐ Starred [basho/riak](https://github.com/basho/riak)<br>
+2. ⭐ Starred [pinecone-io/examples](https://github.com/pinecone-io/examples)<br>
+3. ⭐ Starred [unclebob/crap4java](https://github.com/unclebob/crap4java)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
