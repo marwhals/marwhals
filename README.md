@@ -30,7 +30,6 @@ This is a personal account for holding code and notes which are either useful, i
 2. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
 3. ⭐ Starred [basho/riak](https://github.com/basho/riak)<br>
 4. ⭐ Starred [pinecone-io/examples](https://github.com/pinecone-io/examples)<br>
-5. ⭐ Starred [unclebob/crap4java](https://github.com/unclebob/crap4java)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
