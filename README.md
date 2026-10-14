@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [ATALLC/AppliedCategoryTheory](https://github.com/ATALLC/AppliedCategoryTheory)<br>
-3. ⭐ Starred [neo4j/neo4j](https://github.com/neo4j/neo4j)<br>
-4. ⭐ Starred [apache/hbase](https://github.com/apache/hbase)<br>
-5. ⭐ Starred [chroma-core/chroma](https://github.com/chroma-core/chroma)<br>
+1. ⭐ Starred [seewoo5/awesome-number-theory](https://github.com/seewoo5/awesome-number-theory)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⭐ Starred [ATALLC/AppliedCategoryTheory](https://github.com/ATALLC/AppliedCategoryTheory)<br>
+4. ⭐ Starred [neo4j/neo4j](https://github.com/neo4j/neo4j)<br>
+5. ⭐ Starred [apache/hbase](https://github.com/apache/hbase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
