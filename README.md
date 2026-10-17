@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)<br>
-2. ⭐ Starred [arrow-kt/arrow](https://github.com/arrow-kt/arrow)<br>
-3. ⭐ Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)<br>
-4. ⭐ Starred [apache/flink](https://github.com/apache/flink)<br>
-5. ⭐ Starred [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB)<br>
+1. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
+2. ⭐ Starred [ray-project/ray](https://github.com/ray-project/ray)<br>
+3. ⭐ Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)<br>
+4. ⭐ Starred [arrow-kt/arrow](https://github.com/arrow-kt/arrow)<br>
+5. ⭐ Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
