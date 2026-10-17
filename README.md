@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB)<br>
-2. ⭐ Starred [seewoo5/awesome-number-theory](https://github.com/seewoo5/awesome-number-theory)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-4. ⭐ Starred [ATALLC/AppliedCategoryTheory](https://github.com/ATALLC/AppliedCategoryTheory)<br>
-5. ⭐ Starred [neo4j/neo4j](https://github.com/neo4j/neo4j)<br>
+1. ⭐ Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)<br>
+2. ⭐ Starred [arrow-kt/arrow](https://github.com/arrow-kt/arrow)<br>
+3. ⭐ Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)<br>
+4. ⭐ Starred [apache/flink](https://github.com/apache/flink)<br>
+5. ⭐ Starred [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
