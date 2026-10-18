@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [ray-project/kuberay](https://github.com/ray-project/kuberay)<br>
-3. ⭐ Starred [NVIDIA/nccl](https://github.com/NVIDIA/nccl)<br>
-4. ⭐ Starred [triton-lang/triton](https://github.com/triton-lang/triton)<br>
-5. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
+1. ⭐ Starred [Hacker-Code-J/Modern-Mathematics](https://github.com/Hacker-Code-J/Modern-Mathematics)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⭐ Starred [ray-project/kuberay](https://github.com/ray-project/kuberay)<br>
+4. ⭐ Starred [NVIDIA/nccl](https://github.com/NVIDIA/nccl)<br>
+5. ⭐ Starred [triton-lang/triton](https://github.com/triton-lang/triton)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
