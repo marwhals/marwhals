@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Hacker-Code-J/Modern-Mathematics](https://github.com/Hacker-Code-J/Modern-Mathematics)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-3. ⭐ Starred [ray-project/kuberay](https://github.com/ray-project/kuberay)<br>
-4. ⭐ Starred [NVIDIA/nccl](https://github.com/NVIDIA/nccl)<br>
-5. ⭐ Starred [triton-lang/triton](https://github.com/triton-lang/triton)<br>
+1. ⭐ Starred [thmuch/architecture-fitness-functions](https://github.com/thmuch/architecture-fitness-functions)<br>
+2. ⭐ Starred [QDenka/awesome-software-design](https://github.com/QDenka/awesome-software-design)<br>
+3. ⭐ Starred [GPBench/awesome-genetic-programming](https://github.com/GPBench/awesome-genetic-programming)<br>
+4. ⭐ Starred [jacobod/awesome-evolutionary-programming](https://github.com/jacobod/awesome-evolutionary-programming)<br>
+5. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
