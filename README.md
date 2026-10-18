@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVIDIA/nccl](https://github.com/NVIDIA/nccl)<br>
-2. ⭐ Starred [triton-lang/triton](https://github.com/triton-lang/triton)<br>
-3. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
-4. ⭐ Starred [ray-project/ray](https://github.com/ray-project/ray)<br>
-5. ⭐ Starred [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)<br>
+1. ⭐ Starred [ray-project/kuberay](https://github.com/ray-project/kuberay)<br>
+2. ⭐ Starred [NVIDIA/nccl](https://github.com/NVIDIA/nccl)<br>
+3. ⭐ Starred [triton-lang/triton](https://github.com/triton-lang/triton)<br>
+4. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
+5. ⭐ Starred [ray-project/ray](https://github.com/ray-project/ray)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
