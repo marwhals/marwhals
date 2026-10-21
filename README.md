@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
-2. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)<br>
-3. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)<br>
-4. ⭐ Starred [thmuch/architecture-fitness-functions](https://github.com/thmuch/architecture-fitness-functions)<br>
-5. ⭐ Starred [QDenka/awesome-software-design](https://github.com/QDenka/awesome-software-design)<br>
+1. ⭐ Starred [kylestratis/ai_agents_mcp_examples](https://github.com/kylestratis/ai_agents_mcp_examples)<br>
+2. ⭐ Starred [sancarn/awesome-vba](https://github.com/sancarn/awesome-vba)<br>
+3. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
+4. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)<br>
+5. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
