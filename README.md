@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)<br>
-2. ⭐ Starred [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)<br>
-3. ⭐ Starred [kylestratis/ai_agents_mcp_examples](https://github.com/kylestratis/ai_agents_mcp_examples)<br>
-4. ⭐ Starred [sancarn/awesome-vba](https://github.com/sancarn/awesome-vba)<br>
-5. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
+1. ⭐ Starred [pytorch/pytorch](https://github.com/pytorch/pytorch)<br>
+2. ⭐ Starred [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)<br>
+3. ⭐ Starred [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl)<br>
+4. ⭐ Starred [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk)<br>
+5. ⭐ Starred [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
