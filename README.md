@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)<br>
-2. ⭐ Starred [michaelalbada/BuildingApplicationsWithAIAgents](https://github.com/michaelalbada/BuildingApplicationsWithAIAgents)<br>
-3. ⭐ Starred [pytorch/pytorch](https://github.com/pytorch/pytorch)<br>
-4. ⭐ Starred [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)<br>
-5. ⭐ Starred [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl)<br>
+1. ⭐ Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)<br>
+2. ⭐ Starred [confident-ai/deepteam](https://github.com/confident-ai/deepteam)<br>
+3. ⭐ Starred [NVIDIA/garak](https://github.com/NVIDIA/garak)<br>
+4. ⭐ Starred [HandsOnLLM/An-Illustrated-Guide-To-AI-Agents](https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents)<br>
+5. ⭐ Starred [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
