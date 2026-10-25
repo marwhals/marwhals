@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)<br>
-2. ⭐ Starred [confident-ai/deepteam](https://github.com/confident-ai/deepteam)<br>
-3. ⭐ Starred [NVIDIA/garak](https://github.com/NVIDIA/garak)<br>
-4. ⭐ Starred [HandsOnLLM/An-Illustrated-Guide-To-AI-Agents](https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents)<br>
-5. ⭐ Starred [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)<br>
+1. ⭐ Starred [sympy/sympy](https://github.com/sympy/sympy)<br>
+2. ⭐ Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)<br>
+3. ⭐ Starred [confident-ai/deepteam](https://github.com/confident-ai/deepteam)<br>
+4. ⭐ Starred [NVIDIA/garak](https://github.com/NVIDIA/garak)<br>
+5. ⭐ Starred [HandsOnLLM/An-Illustrated-Guide-To-AI-Agents](https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
