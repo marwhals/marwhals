@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik)<br>
-2. ⬆️ Pushed undefined commit(s) to [marwhals/cats-effect-mine](https://github.com/marwhals/cats-effect-mine)<br>
-3. ⬆️ Pushed undefined commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
-4. ⭐ Starred [apache/beam](https://github.com/apache/beam)<br>
-5. ⭐ Starred [sympy/sympy](https://github.com/sympy/sympy)<br>
+1. ⭐ Starred [eclipse-ditto/ditto](https://github.com/eclipse-ditto/ditto)<br>
+2. ⭐ Starred [Azure-Samples/digital-twins-samples](https://github.com/Azure-Samples/digital-twins-samples)<br>
+3. ⭐ Starred [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik)<br>
+4. ⬆️ Pushed undefined commit(s) to [marwhals/cats-effect-mine](https://github.com/marwhals/cats-effect-mine)<br>
+5. ⬆️ Pushed undefined commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
