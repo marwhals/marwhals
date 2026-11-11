@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eclipse-ditto/ditto](https://github.com/eclipse-ditto/ditto)<br>
-2. ⭐ Starred [Azure-Samples/digital-twins-samples](https://github.com/Azure-Samples/digital-twins-samples)<br>
-3. ⭐ Starred [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/cats-effect-mine](https://github.com/marwhals/cats-effect-mine)<br>
-5. ⬆️ Pushed undefined commit(s) to [marwhals/java-reference](https://github.com/marwhals/java-reference)<br>
+1. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)<br>
+2. ⭐ Starred [apache/iceberg](https://github.com/apache/iceberg)<br>
+3. ⭐ Starred [delta-io/delta-examples](https://github.com/delta-io/delta-examples)<br>
+4. ⭐ Starred [getcommunityone/delta-spark-handbook](https://github.com/getcommunityone/delta-spark-handbook)<br>
+5. ⭐ Starred [eclipse-ditto/ditto](https://github.com/eclipse-ditto/ditto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
