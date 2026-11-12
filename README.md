@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)<br>
-2. ⭐ Starred [apache/iceberg](https://github.com/apache/iceberg)<br>
-3. ⭐ Starred [delta-io/delta-examples](https://github.com/delta-io/delta-examples)<br>
-4. ⭐ Starred [getcommunityone/delta-spark-handbook](https://github.com/getcommunityone/delta-spark-handbook)<br>
-5. ⭐ Starred [eclipse-ditto/ditto](https://github.com/eclipse-ditto/ditto)<br>
+1. ⭐ Starred [http4s/http4s](https://github.com/http4s/http4s)<br>
+2. ⭐ Starred [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)<br>
+3. ⭐ Starred [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples)<br>
+4. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)<br>
+5. ⭐ Starred [apache/iceberg](https://github.com/apache/iceberg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
