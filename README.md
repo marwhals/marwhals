@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [http4s/http4s](https://github.com/http4s/http4s)<br>
-3. ⭐ Starred [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)<br>
-4. ⭐ Starred [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples)<br>
-5. ⭐ Starred [apache/hudi](https://github.com/apache/hudi)<br>
+1. ⭐ Starred [proptest-rs/proptest](https://github.com/proptest-rs/proptest)<br>
+2. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+3. ⭐ Starred [http4s/http4s](https://github.com/http4s/http4s)<br>
+4. ⭐ Starred [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)<br>
+5. ⭐ Starred [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
