@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc)<br>
-2. ⭐ Starred [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books)<br>
-3. ⭐ Starred [proptest-rs/proptest](https://github.com/proptest-rs/proptest)<br>
-4. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-5. ⭐ Starred [http4s/http4s](https://github.com/http4s/http4s)<br>
+1. ⭐ Starred [awelist/awesome-mechanical-engineering](https://github.com/awelist/awesome-mechanical-engineering)<br>
+2. ⭐ Starred [awelist/awesome-civil-engineering](https://github.com/awelist/awesome-civil-engineering)<br>
+3. ⭐ Starred [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc)<br>
+4. ⭐ Starred [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books)<br>
+5. ⭐ Starred [proptest-rs/proptest](https://github.com/proptest-rs/proptest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
