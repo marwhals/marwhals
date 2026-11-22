@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lengyijun/awesome-lambda-calculus](https://github.com/lengyijun/awesome-lambda-calculus)<br>
-2. ⭐ Starred [awelist/awesome-mechanical-engineering](https://github.com/awelist/awesome-mechanical-engineering)<br>
-3. ⭐ Starred [awelist/awesome-civil-engineering](https://github.com/awelist/awesome-civil-engineering)<br>
-4. ⭐ Starred [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc)<br>
-5. ⭐ Starred [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books)<br>
+1. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)<br>
+2. ⭐ Starred [Building-ML-Pipelines/building-machine-learning-pipelines](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)<br>
+3. ⭐ Starred [lengyijun/awesome-lambda-calculus](https://github.com/lengyijun/awesome-lambda-calculus)<br>
+4. ⭐ Starred [awelist/awesome-mechanical-engineering](https://github.com/awelist/awesome-mechanical-engineering)<br>
+5. ⭐ Starred [awelist/awesome-civil-engineering](https://github.com/awelist/awesome-civil-engineering)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
