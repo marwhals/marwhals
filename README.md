@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)<br>
-2. ⭐ Starred [Building-ML-Pipelines/building-machine-learning-pipelines](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)<br>
-3. ⭐ Starred [lengyijun/awesome-lambda-calculus](https://github.com/lengyijun/awesome-lambda-calculus)<br>
-4. ⭐ Starred [awelist/awesome-mechanical-engineering](https://github.com/awelist/awesome-mechanical-engineering)<br>
-5. ⭐ Starred [awelist/awesome-civil-engineering](https://github.com/awelist/awesome-civil-engineering)<br>
+1. ⭐ Starred [dagster-io/dagster](https://github.com/dagster-io/dagster)<br>
+2. ⭐ Starred [apache/pulsar](https://github.com/apache/pulsar)<br>
+3. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)<br>
+4. ⭐ Starred [Building-ML-Pipelines/building-machine-learning-pipelines](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)<br>
+5. ⭐ Starred [lengyijun/awesome-lambda-calculus](https://github.com/lengyijun/awesome-lambda-calculus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
