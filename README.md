@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
-2. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)<br>
-3. ⭐ Starred [dagster-io/dagster](https://github.com/dagster-io/dagster)<br>
-4. ⭐ Starred [apache/pulsar](https://github.com/apache/pulsar)<br>
-5. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)<br>
+1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
+2. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
+3. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)<br>
+4. ⭐ Starred [dagster-io/dagster](https://github.com/dagster-io/dagster)<br>
+5. ⭐ Starred [apache/pulsar](https://github.com/apache/pulsar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
