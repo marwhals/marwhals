@@ -26,11 +26,11 @@ This is a personal account for holding code and notes which are either useful, i
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [marwhals/system-design-notes](https://github.com/marwhals/system-design-notes)<br>
-2. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
-3. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)<br>
-4. ⭐ Starred [dagster-io/dagster](https://github.com/dagster-io/dagster)<br>
-5. ⭐ Starred [apache/pulsar](https://github.com/apache/pulsar)<br>
+1. ⭐ Starred [NLKNguyen/awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)<br>
+2. ⭐ Starred [facebookresearch/TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)<br>
+3. ⭐ Starred [mdenet/awesome-mde](https://github.com/mdenet/awesome-mde)<br>
+4. ⭐ Starred [awelist/awesome-physics](https://github.com/awelist/awesome-physics)<br>
+5. ⭐ Starred [wbierbower/awesome-physics](https://github.com/wbierbower/awesome-physics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
